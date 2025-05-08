@@ -1,12 +1,10 @@
 # Dependencies
 import requests
+from config import API_KEY
 import pandas as pd
 import datetime
 import openpyxl
 import json
-
-# Placeholder for API key (to be provided securely)
-API_KEY = "YOUR_API_KEY"
 
 # Get the current date and format it as a string
 now = datetime.datetime.now()
