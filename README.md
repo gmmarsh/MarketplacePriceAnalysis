@@ -95,9 +95,8 @@ Enhance error handling for API rate limits or missing data.
 Contact
 For questions or feedback, reach out via:
 
-Email: gmarsh@bdrsgroup.com
+Email: gmmarsh@gmail.com
 LinkedIn: linkedin.com/in/marshgraham
 GitHub: github.com/gmmarsh
-X: @GrahamMars4062
 
 Explore my other projects on GitHub, including Crypto Clustering and Topic Modeling, for additional examples of my data analysis and machine learning expertise.
